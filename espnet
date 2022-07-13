@@ -1,0 +1,1 @@
+FROM espnet/espnet:gpu-cuda10.1-cudnn7-u18
